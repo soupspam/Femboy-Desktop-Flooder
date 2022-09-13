@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		FemboyScraper.getAndDownloadPosts(250);
+		FemboyScraper.getAndDownloadPosts(1000);
 		
 	}
 
